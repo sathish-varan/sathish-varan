@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sathish-varan/sathish-varan** is a ✨<div align="center">
 
