@@ -128,15 +128,6 @@ A machine learning solution to forecast product demand using historical business
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathish-varan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish-varan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
----
-
 # ✍️ Random Dev Quote
 
 <div align="center">
