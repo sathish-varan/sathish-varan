@@ -1,230 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SATHISHVARAN%20E&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20DEVELOPER%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Sathishvaran%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+amazing+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=c3c3c3&center=true&vCenter=true&width=600&lines=Final-Year+B.Tech+IT+Student;Building+AI-Powered+Applications+%F0%9F%A4%96;Aspiring+Software+Developer+%40+TCS" alt="Typing SVG" />
+</a>
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20Information%20Technology-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Python%20%7C%20AI%20%7C%20ML-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Puducherry%2C%20India-4C1D95?style=for-the-badge"/>
+# 👋 About Me
 
-<br/><br/>
+🎓 Final-year **B.Tech Information Technology** student at Sri Manakula Vinayagar Engineering College, Puducherry (CGPA: 8.48)
+💻 Strong fundamentals in **Python, SQL, Data Structures, and DBMS**
+🤖 Hands-on experience building **AI-powered applications and machine learning solutions**
+🏆 Hackathon enthusiast — built a **multilingual insurance advisory platform** using AI agents
+☁️ Completed a 10-week **AWS Cloud Virtual Internship** (AICTE EduSkills & AWS Academy)
+🚀 Seeking to begin my career as a **Software Developer**, contributing to impactful, real-world projects
 
-<a href="https://www.linkedin.com/in/sathishvaran-e-277089293/?skipRedirect=true"> <img
-src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+---
 
-<a href="mailto:esathishvaran@gmail.com"> <img
-src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+# 🌐 Connect With Me
 
-<a href="https://github.com/sathish-varan"> <img
-src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="http://www.linkedin.com/in/sathishvaran-e277089293">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/><br/>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:esathishvaran@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/><br/>
+        <b>Email</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/sathish-varan">
+        <img src="https://cdn.simpleicons.org/github/181717" width="45"/><br/>
+        <b>GitHub</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
+---
+
+# 🧰 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white)
+
+**Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Machine Learning & Data**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Blockchain**
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🩺 Vernacure — AI-Powered Insurance Advisory Platform
+A multilingual insurance advisory platform that improves policy accessibility through voice and chat interactions. Integrated AI agents to automate policy explanations, plan comparisons, and personalized recommendations, using **n8n** and **Railway** for scalable deployment — improving accessibility for regional language users.
+
+### 📈 Demand Forecasting and Inventory Optimization
+A machine learning solution to forecast product demand using historical business data, supporting data-driven inventory planning. Applied data preprocessing, feature engineering, and predictive analytics to build reliable forecasting models and improve operational planning.
+
+---
+
+# 🏆 Achievements
+
+- 🥉 Consolation Prize Winner — Agentic AI Hackathon (SMVEC)
+- 🎖️ Ranked 6th — Swafinix AI Agent Hackathon
+- ✅ Advanced Round Qualifier — CMRIT VYUHATECH 2.0
+- 🤝 Participant — Avalanche Team1 Hackathon
+- 🤝 Participant — Unisys Innovation Program
+- 🤝 Participant — SRM Datathon 2025
+
+---
+
+# 📜 Certifications
+
+- Google Cloud Career Launchpad — Generative AI Leader Track
+- AWS Data Engineering Virtual Internship — AICTE EduSkills & AWS Academy
+- NPTEL — Database Management Systems
+- NPTEL — Programming in Java
+- Problem Solving in Python — CodeChef
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sathish-varan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sathish-varan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
 
-## ■ About Me
-
-```yaml
-name: Sathishvaran E
-education: B.Tech Information Technology
-role: Aspiring Software Developer
-
-focus:
-  - Python
-  - Artificial Intelligence
-  - Machine Learning
-
-currently_learning:
-  - Data Structures & Algorithms
-  - AI Agents
-  - Cloud Technologies
-
-mindset: Learn → Build → Share → Improve
-```
-
-I am a final-year B.Tech Information Technology student passionate about building practical software and AI-powered applications.
-
-I enjoy solving problems, exploring new technologies, and turning ideas into real-world projects through academic work and hackathons.
-
-Currently, I am focused on improving my Python, SQL, AI/ML, problem-solving, and software development skills.
-
----
-
-## ■■ Tech Stack
-
-### Programming Languages
-
-<p> <img src="https://skillicons.dev/icons?i=python,java,html,css"/> </p>
-
-### Frontend
-
-<p> <img src="https://skillicons.dev/icons?i=html,css"/> </p>
-
-### Backend & Database
-
-<p> <img src="https://skillicons.dev/icons?i=flask,mysql"/> </p>
-
-### Tools
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/> </p>
-
-`Postman` `n8n`
-
----
-
-## ■ My Learning Journey
-
-```text
-Information Technology
-        ↓
-Python & Programming
-        ↓
-SQL & Database Management
-        ↓
-Machine Learning & Artificial Intelligence
-        ↓
-AI-Powered Applications
-        ↓
-Cloud Technologies
-        ↓
-Real Projects
-        ↓
-Software Developer
-```
-
-### Currently Exploring
-
-* Artificial Intelligence
-* Machine Learning
-* AI Agents
-* Data Structures & Algorithms
-
----
-
-## ■ Featured Projects
-
-### ■ Project 01 — Vernacure
-
-Vernacure is a multilingual AI-powered insurance advisory platform that makes insurance information more accessible through voice and chat interactions.
-
-Integrated AI agents to provide policy explanations, plan comparisons, and personalized recommendations while improving accessibility for regional-language users.
-
-**Tech Stack:**
-
-`Flutter` `AI Agents` `n8n` `Groq` `Railway`
-
----
-
-### ■ Project 02 — Demand Forecasting & Inventory Optimization
-
-Developed a machine learning solution to forecast product demand using historical business data and support data-driven inventory planning.
-
-Applied data preprocessing, feature engineering, and predictive analytics to build reliable forecasting models and improve operational decision-making.
-
-**Tech Stack:**
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
----
-
-### ■ Project 03 — AI & Machine Learning Projects
-
-Exploring and building practical AI and machine learning solutions through academic projects, hackathons, and continuous experimentation.
-
-Focused on applying artificial intelligence to real-world problems and developing solutions that are practical, accessible, and scalable.
-
-**Tech Stack:**
-
-`Python` `Machine Learning` `AI` `Scikit-learn` `Pandas`
-
----
-
-## ■ My Learning Journey
-
-```text
-Education
-    ↓
-Programming
-    ↓
-Development
-    ↓
-AI & Machine Learning
-    ↓
-Advanced Skills
-    ↓
-Real Projects
-    ↓
-Professional Growth
-```
-
-> Learn → Build → Share → Improve
-
----
-
-## ■ Current Focus
-
-```yaml
-learning:
-  - Python
-  - Data Structures & Algorithms
-  - SQL & DBMS
-
-building:
-  - AI-powered applications
-  - Machine learning projects
-
-exploring:
-  - Artificial Intelligence
-  - AI Agents
-
-goal:
-  - Become a Software Developer
-  - Build impactful real-world applications
-```
-
----
-
-## ■ GitHub
+# ✍️ Random Dev Quote
 
 <div align="center">
-
-<a href="https://github.com/sathish-varan"> <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/> <img
-src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> <img
-src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 
----
-
-## ■ Connect With Me
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/sathishvaran-e-277089293/?skipRedirect=true"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="mailto:esathishvaran@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-<a href="https://github.com/sathish-varan"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ■ Keep Building. Keep Learning. Keep Growing.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
