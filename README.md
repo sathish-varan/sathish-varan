@@ -37,8 +37,20 @@
     </td>
     <td align="center" width="120">
       <a href="https://github.com/sathish-varan">
-        <img src="https://cdn.simpleicons.org/github/181717" width="45"/><br/>
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white" width="70"/><br/>
         <b>GitHub</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://leetcode.com/u/aimQSCezmr/">
+        <img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="70"/><br/>
+        <b>LeetCode</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.skillrack.com/faces/resume.xhtml?id=465184&key=7044912d308307d112e42f0ff5c1d8d866991a67">
+        <img src="https://cdn.simpleicons.org/codeforces/2E86C1" width="45"/><br/>
+        <b>SkillRack</b>
       </a>
     </td>
   </tr>
@@ -108,11 +120,19 @@ A machine learning solution to forecast product demand using historical business
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sathish-varan/sathish-varan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sathish-varan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sathish-varan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sathish-varan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish-varan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
